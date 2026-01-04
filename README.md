@@ -94,5 +94,5 @@ Projeto desenvolvido no contexto de **aprendizado prático aplicado a cenários 
 
 ## 🏷️ Autor
 
-Projeto desenvolvido por **[Dayane Santos]** como parte do portfólio de estudos em análise de dados e inteligência de negócios.
+Projeto desenvolvido por **[Dayane Santos]** como parte do portfólio de estudos  em análise de dados e inteligência de negócios com a Hashtag Treinamentos.
 
